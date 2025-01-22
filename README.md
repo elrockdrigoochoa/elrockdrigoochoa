@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elrockdrigoochoa&label=Profile%20views&color=0e75b6&style=flat" alt="elrockdrigoochoa" /> </p>
 
-- 🌱 I’m currently learning **Front End**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I love traveling and movies**
 
